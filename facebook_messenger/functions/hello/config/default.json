@@ -1,0 +1,7 @@
+{
+	"amazonCredentials":{
+    	"awsId" : "YOUR_AWS_ID",
+    	"awsSecret" : "YOUR_AWS_SECRET",
+    	"awsTag" : "YOUR_AWS_TAG"
+  	}
+}

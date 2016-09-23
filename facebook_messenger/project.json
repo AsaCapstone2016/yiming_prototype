@@ -1,0 +1,8 @@
+{
+  "name": "Asa",
+  "description": "",
+  "memory": 1536,
+  "timeout": 5,
+  "role": "arn:aws:iam::262865446018:role/Asa_lambda_function",
+  "environment": {}
+}
