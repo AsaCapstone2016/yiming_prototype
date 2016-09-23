@@ -1,3 +1,4 @@
+//AWS ACCOUNT INFO
 {
 	"amazonCredentials":{
     	"awsId" : "YOUR_AWS_ID",
